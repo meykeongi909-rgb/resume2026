@@ -73,8 +73,8 @@
 
         <p><strong>프로젝트 구조</strong></p>
         <ul>
-            <li>index.html</li>
-            <li>style.css</li>
+            <li>html</li>
+            <li>css</li>
             <li>script.js</li>
             <li>assets</li>
         </ul>
